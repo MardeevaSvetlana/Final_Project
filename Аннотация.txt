@@ -1,3 +1,0 @@
-  Интернет- магазин https://russkaja-ohota.ru/
-  Smoke- test всего пути бизнес- логики:
-  - авторизация ( login_page.py)
