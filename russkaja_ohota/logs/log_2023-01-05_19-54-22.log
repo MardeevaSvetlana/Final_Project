@@ -1,0 +1,66 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-01-05 19:54:23.488075
+Start name method: authorization
+
+End time: 2023-01-05 19:54:26.193861
+End name method: authorization
+URL: https://russkaja-ohota.ru/my/orders/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-01-05 19:54:26.193861
+Start name method: select_product
+
+End time: 2023-01-05 19:54:31.148516
+End name method: select_product
+URL: https://russkaja-ohota.ru/cart/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-01-05 19:54:31.149513
+Start name method: product_confirmation
+
+End time: 2023-01-05 19:54:32.193867
+End name method: product_confirmation
+URL: https://russkaja-ohota.ru/checkout/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-01-05 19:54:32.194864
+Start name method: input_information
+
+End time: 2023-01-05 19:54:35.224661
+End name method: input_information
+URL: https://russkaja-ohota.ru/checkout/payment/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-01-05 19:54:35.225658
+Start name method: payment
+
+End time: 2023-01-05 19:54:36.328585
+End name method: payment
+URL: https://russkaja-ohota.ru/checkout/confirmation/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-01-05 19:54:36.328585
+Start name method: clear
+
+End time: 2023-01-05 19:54:39.301529
+End name method: clear
+URL: https://russkaja-ohota.ru/category/radiostancii-eholoty-barometry-navigatory-kompasy/
+
+-----

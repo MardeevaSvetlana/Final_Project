@@ -1,0 +1,43 @@
+Start test
+Current url https://russkaja-ohota.ru/
+Click start button
+input user name
+input passwort
+Click login button
+Good value url
+Current url https://russkaja-ohota.ru/my/orders/
+Click expanded directory
+Click directory
+Click section button
+Good value url
+Input product name
+Click search button
+Click buy button
+Click cart button
+Current url https://russkaja-ohota.ru/cart/
+Click checkout button
+Good value url
+Current url https://russkaja-ohota.ru/checkout/
+input last name
+input first name
+input telephon number
+input email
+Click agreement button
+Click continue button
+Good value url
+Click radio button
+input town final
+input address
+input index
+Click continue button
+Good value url
+Current url https://russkaja-ohota.ru/checkout/payment/
+Click radio button
+Click finish button
+Good value url
+Good value word
+Good value url
+Click delete button
+Current url https://russkaja-ohota.ru/category/radiostancii-eholoty-barometry-navigatory-kompasy/
+Good value word
+Finish test
